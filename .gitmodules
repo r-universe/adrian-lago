@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "ksamplesLTRC"]
 	path = ksamplesLTRC
-	url = https://github.com/cran/ksamplesLTRC
+	url = https://github.com/adrian-lago/ksamplesltrc
